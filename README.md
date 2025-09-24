@@ -48,3 +48,7 @@ Hafif ve hesaplama açısından verimli bir mimari ile yüksek sınıflandırma 
 
 ## 9. Lisans ve Atıf
 Veri seti lisansı için Kaggle sayfasına bakınız. Kod, eğitim-öğretim amaçlı paylaşılmıştır; uygun atıfla kullanılabilir.
+
+## Kaggle Notebook
+Projenin çalışan, public sürüm: [https://www.kaggle.com/code/<kullanici>/<notebook-slug>](https://www.kaggle.com/code/zeynepozkann/notebook33bfe4ae01)
+
